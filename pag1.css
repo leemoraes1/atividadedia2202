@@ -1,0 +1,10 @@
+h2{ /*seletor de elementos*/
+    color:palevioletred;
+    font-size: 190%; /*ajusta tamanho da letra*/
+
+}
+body{
+    cursor: pointer;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    margin: auto 0%;
+}
